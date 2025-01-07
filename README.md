@@ -1,7 +1,7 @@
 # Threat Model
 
 ## Overview
-Threat Model is a Python-based framework designed to streamline the process of threat modeling. Integrating threat modeling directly into the development workflow, empowers security teams and developers to collaboratively identify, assess, and mitigate risks efficiently.
+Threat Model is a Python-based framework designed to streamline the process of threat modeling. Integrating threat modeling directly into the development workflow empowers security teams and developers to collaboratively identify, assess, and mitigate risks efficiently.
 
 ## Features
 - **Code-Driven Threat Modeling:** Define threat models programmatically.
@@ -13,7 +13,7 @@ Threat Model is a Python-based framework designed to streamline the process of t
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Chandu-003/Threat-Model.git
    cd Threat Model
    ```
 2. Install dependencies:
